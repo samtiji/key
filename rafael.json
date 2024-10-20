@@ -7,7 +7,10 @@
     {
       "whatsappNumber": "083846147781",
       "password": "123"
-    }
+    },
+    {
+      "whatsappNumber": "082243055030",
+      "password": "lawak"
   ],
   "approvedUsers": [
     {
@@ -17,6 +20,8 @@
     {
       "whatsappNumber": "083846147781",
       "token": "rafael123"
-    }
+    },
+    {"whatsappNumber": "082243055030",
+      "token": "samtzy"
   ]
 }
